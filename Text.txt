@@ -1,0 +1,8 @@
+
+Compound Saving
+Date : 2021-01-03
+Time :10:02:15.590
+Compound Future Value : Rs.20355.12679250108
+Compound Interest Rate: 8.0
+Compound Period: 10.0
+Compound Present Value : $1258.0
