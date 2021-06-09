@@ -1,4 +1,5 @@
 # Financial Calculator App
+
 A financial app using Java and JavaFX. This app has the ability to solve for one unknown from the given parameters.
     t - time in years
     r(%) - interest rate
