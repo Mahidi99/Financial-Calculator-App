@@ -17,5 +17,5 @@ there might be sum invested with a subsequent further monthly contribution
     3)  Loans - compound interest with regular payments 
     4)  Mortgage 
   
-  In addition to this this software contains a help view that contains instructions and guidance to the user on how to use the software.
+  In addition to this this software contains a help view that contains instructions and guidance to the user on how to use this software.
 
